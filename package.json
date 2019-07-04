@@ -1,0 +1,22 @@
+{
+  "name": "projetoteste",
+  "version": "1.0.0",
+  "description": "Teste de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomrabelo/projetos.github.io.git"
+  },
+  "author": "Leonardo Rabelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardomrabelo/projetos.github.io/issues"
+  },
+  "homepage": "https://github.com/leonardomrabelo/projetos.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
